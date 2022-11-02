@@ -9,3 +9,4 @@
 * [BDD name convention](https://matheus.ro/2017/09/24/unit-test-naming-convention/)
 ## Ideas
    * Review python page
+   * add list of packages
