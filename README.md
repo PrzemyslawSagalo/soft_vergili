@@ -1,4 +1,4 @@
-# Advance Python
+# py_vergili
 ## List of topics
 ### Build systems
 * [Creating a Python Makefile](https://earthly.dev/blog/python-makefile/)
