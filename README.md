@@ -1,10 +1,10 @@
-# cpp_vergili
+# cpp
 ## List of topics
 ### Profiling
 * [ftrace](https://en.wikipedia.org/wiki/Ftrace)
 * [uftrace](https://github.com/namhyung/uftrace)
 
-# py_vergili
+# python
 ## List of topics
 ### Build systems
 * [Creating a Python Makefile](https://earthly.dev/blog/python-makefile/)
