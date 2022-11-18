@@ -18,4 +18,4 @@
    * add list of packages
 
 # general
-* [Tracing feature in chrome](chrome://tracing/)
+* Tracing feature in chrome - chrome://tracing/
