@@ -1,3 +1,9 @@
+# cpp_vergili
+## List of topics
+### Profiling
+* [ftrace](https://en.wikipedia.org/wiki/Ftrace)
+* [uftrace](https://github.com/namhyung/uftrace)
+
 # py_vergili
 ## List of topics
 ### Build systems
@@ -10,3 +16,6 @@
 ## Ideas
    * Review python page
    * add list of packages
+
+# general
+* [Tracing feature in chrome](chrome://tracing/)
