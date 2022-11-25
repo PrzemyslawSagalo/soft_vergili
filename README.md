@@ -1,6 +1,6 @@
 # Linux
 ## List of topics
-* [Hot ot create a hughe mock file](https://stackoverflow.com/questions/257844/quickly-create-a-large-file-on-a-linux-system
+* [Hot ot create a hughe mock file](https://stackoverflow.com/questions/257844/quickly-create-a-large-file-on-a-linux-system)
 
 # cpp
 ## List of topics
