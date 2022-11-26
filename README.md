@@ -1,9 +1,11 @@
 # Linux
 ## List of topics
-* [How ot create a hughe mock file](https://stackoverflow.com/questions/257844/quickly-create-a-large-file-on-a-linux-system)
+* [How ot create a mock file](https://stackoverflow.com/questions/257844/quickly-create-a-large-file-on-a-linux-system)
 
 # cpp
 ## List of topics
+## Classes
+* [-> vs . vs ::](https://stackoverflow.com/questions/11902791/what-is-the-difference-between-and-in-c)
 ### Profiling
 * [ftrace](https://en.wikipedia.org/wiki/Ftrace)
 * [uftrace](https://github.com/namhyung/uftrace)
