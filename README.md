@@ -4,11 +4,15 @@
 
 # cpp
 ## List of topics
-## Classes
+### Classes
 * [-> vs . vs ::](https://stackoverflow.com/questions/11902791/what-is-the-difference-between-and-in-c)
 ### Profiling
 * [ftrace](https://en.wikipedia.org/wiki/Ftrace)
 * [uftrace](https://github.com/namhyung/uftrace)
+
+# Lua
+## List of topics
+* [lvalue vs rvalue](https://www.tutorialspoint.com/lua/lua_variables.htm)
 
 # python
 ## List of topics
