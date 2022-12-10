@@ -2,6 +2,10 @@
 ## List of topics
 * [How ot create a mock file](https://stackoverflow.com/questions/257844/quickly-create-a-large-file-on-a-linux-system)
 
+# Docker
+## List of topics
+* [Linux distros for docker](https://medium.com/swlh/alpine-slim-stretch-buster-jessie-bullseye-bookworm-what-are-the-differences-in-docker-62171ed4531d)
+
 # cpp
 ## List of topics
 ### Classes
