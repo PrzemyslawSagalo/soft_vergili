@@ -34,3 +34,6 @@
 
 # general
 * Tracing feature in chrome - chrome://tracing/
+
+# k8s
+* [6 Important things you need to run Kubernetes in production](https://www.pionative.com/post/6-important-things-you-need-to-run-kubernetes-in-production)
