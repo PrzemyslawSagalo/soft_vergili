@@ -10,6 +10,7 @@
 ## List of topics
 ### Classes
 * [-> vs . vs ::](https://stackoverflow.com/questions/11902791/what-is-the-difference-between-and-in-c)
+* [How to read declaration]()
 ### Profiling
 * [ftrace](https://en.wikipedia.org/wiki/Ftrace)
 * [uftrace](https://github.com/namhyung/uftrace)
